@@ -1,0 +1,10 @@
+{
+    "TestData_Set1": {
+        "skill1": "Playwright using typescript",
+        "skill2": "Playwright using javascript"
+    },
+    "TestData_Set2": {
+        "skill1": "Playwright using java",
+        "skill2": "Playwright using python"
+    }
+}
