@@ -1,0 +1,11 @@
+{
+    "firstname": "Dhinesh",
+    "lastname": "P",
+    "totalprice": 1000,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2025-06-15",
+        "checkout": "2025-06-18"
+    },
+    "additionalneeds": "super bowls"
+}
