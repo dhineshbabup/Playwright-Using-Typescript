@@ -1,9 +1,6 @@
 import { test, expect } from "@playwright/test";
 import postAPIStatic from "../../test-data/api_request/post_api_request.json";
-import postAPIDynamic from "../../test-data/api_request/Dynamic_Post_api_request.json";
-import { formatAPIRequest } from "../../src/utils/APIHelper";
-import path from "path";
-import fs from "fs";
+
 
 test.use({
   baseURL: process.env.BASE_API_URL,
